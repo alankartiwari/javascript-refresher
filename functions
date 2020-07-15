@@ -1,0 +1,5 @@
+ function phoneBill(calls){
+     let bill = (calls * 10);
+     return 
+
+ }
